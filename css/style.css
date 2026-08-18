@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-image: url('../img/bd764bb25d49a05105060185774ba14cd2.jpg');
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,6 +15,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
+    position: relative;
 }
  
 h1 {
